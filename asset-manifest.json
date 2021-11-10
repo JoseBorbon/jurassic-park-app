@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jurassic-park/static/css/main.8b88c0cd.chunk.css",
+    "main.js": "/jurassic-park/static/js/main.b9bc3bc8.chunk.js",
+    "main.js.map": "/jurassic-park/static/js/main.b9bc3bc8.chunk.js.map",
+    "runtime-main.js": "/jurassic-park/static/js/runtime-main.51293bf3.js",
+    "runtime-main.js.map": "/jurassic-park/static/js/runtime-main.51293bf3.js.map",
+    "static/js/2.50553e73.chunk.js": "/jurassic-park/static/js/2.50553e73.chunk.js",
+    "static/js/2.50553e73.chunk.js.map": "/jurassic-park/static/js/2.50553e73.chunk.js.map",
+    "index.html": "/jurassic-park/index.html",
+    "static/css/main.8b88c0cd.chunk.css.map": "/jurassic-park/static/css/main.8b88c0cd.chunk.css.map",
+    "static/js/2.50553e73.chunk.js.LICENSE.txt": "/jurassic-park/static/js/2.50553e73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51293bf3.js",
+    "static/js/2.50553e73.chunk.js",
+    "static/css/main.8b88c0cd.chunk.css",
+    "static/js/main.b9bc3bc8.chunk.js"
+  ]
+}
